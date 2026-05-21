@@ -1,21 +1,12 @@
 # Kervon
 
-Technology ecosystem focused on intelligence, automation and scalable digital infrastructure.
+Technology ecosystem building intelligence, automation and scalable digital infrastructure.
 
 ---
 
-## About
+## Vision
 
-Kervon develops technology, intelligence and scalable digital solutions designed to transform complexity into clarity, efficiency and strategic value.
-
-Our ecosystem combines:
-- Artificial Intelligence
-- Automation
-- Monitoring systems
-- Data intelligence
-- Digital infrastructure
-- Strategic platforms
-- Scalable web technologies
+Transform complexity into clarity through technology, intelligence and scalable digital systems.
 
 ---
 
@@ -23,11 +14,11 @@ Our ecosystem combines:
 
 - Artificial Intelligence
 - Automation Systems
+- Monitoring Platforms
 - Digital Infrastructure
 - Data Intelligence
 - Strategic Technology
-- Monitoring Platforms
-- Scalable Web Solutions
+- Scalable Digital Products
 
 ---
 
@@ -41,12 +32,6 @@ Our ecosystem combines:
 | Kervon Solutions | Digital products, systems and automation |
 | Kervon Venture | Innovation, ventures and scalable initiatives |
 | Kervon Social | Social impact, education and transformation initiatives |
-
----
-
-## Vision
-
-Building technology ecosystems that simplify complexity, accelerate decisions and generate long-term value.
 
 ---
 
@@ -69,3 +54,26 @@ GitHub Actions
 Artificial Intelligence
 Automation Systems
 Cloud Infrastructure
+```
+
+---
+
+## Infrastructure & Platforms
+
+- AI-powered systems
+- Web applications
+- Automation pipelines
+- Monitoring platforms
+- Strategic dashboards
+- Data engineering
+- Cloud-native architecture
+- Scalable digital ecosystems
+
+---
+
+## Organization
+
+Kervon is structured as a technology ecosystem focused on creating scalable digital infrastructure, intelligent systems and strategic platforms for modern businesses.
+
+Website:
+https://kervon.com.br
