@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo-kervon.png" width="140"/>
+
 # Kervon
 
 Technology ecosystem building intelligence, automation and scalable digital infrastructure.
